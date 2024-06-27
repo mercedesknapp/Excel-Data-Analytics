@@ -19,7 +19,6 @@ Dataset Used - (https://docs.google.com/spreadsheets/d/1IZ7abvP9h4YvUvS9lLzw0wqz
 - **Roast Type Name, Size, Loyalty Card:** Analyze the distribution of orders based on the Roast Type and Size of the Coffee Order and if the customer has a loyalty card (Y/N)
 - **Sales by Country & Top 5 Customers:** Explore Coffee Order sales across different Countries, what the sum of sales were for that time period. The Top 5 Customers shows the top 5 customers for a given time period.
 ## Instructions for Use
-1. Download the dataset from the provided GitHub repository file.
+1. Download the dataset from the provided GitHub repository file with the coffeeOrdersData.xlsx file
 2. Explore the interactive dashboard to gain insights into Coffee Order sales based on various product information.
-3. Contribute or modify the project as needed for your specific requirements.
 

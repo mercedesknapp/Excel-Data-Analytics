@@ -1,4 +1,16 @@
 # Coffee Orders Excel Dashboard Project
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard Image</title>
+</head>
+<body>
+    <h1>Coffee Sales Dashboard</h1>
+    <img src="https://github.com/mercedesknapp/Excel-Data-Analytics/blob/main/Coffee-Orders-Excel-Dashboard/Coffee%20Orders%20Dashboard%20Image.png?raw=true" alt="Coffee Sales Dashboard" style="max-width: 100%; height: auto;">
+</body>
+</html>
 
 ## Project Overview
 This Excel project involves creating a comprehensive dashboard for Coffee Order sales, utilizing data cleaning, pivot tables, and visualizations. The goal is to provide a user-friendly dashboard where users can interact with the data, exploring coffee sales insights based on various information such as Top 5 Customers, Top Countries, the Coffee Roast Type, Size, and if the customer had a Loyalty Card.
